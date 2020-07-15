@@ -1,5 +1,5 @@
 # TicTacToe
-A two player X-O game
+A two player X-O game.
 https://hyperskill.org/projects/73
 
 <img src="https://github.com/ishwarjagdale/TicTacToe/blob/master/demonstration.gif" width="640" height="324"/>
